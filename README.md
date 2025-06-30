@@ -49,9 +49,11 @@ Estoy en búsqueda activa de mi primera experiencia profesional en el mundo del 
 ---
 
 ### 📫 ¿Hablamos?
-
+- bryan.18.ecua@hotmail.com
+- 📞 +34 614 64 76 89
 - ✉️ [bryan.18.ecua@hotmail.com](mailto:bryan.18.ecua@hotmail.com)  
-- 💼 [LinkedIn – Bryan K. Ludeña Campoverde](https://linkedin.com) *(agrega aquí tu enlace personalizado si tienes uno)*
+- 💼 [LinkedIn – Bryan K. Ludeña Campoverde](www.linkedin.com/in/bryan-k-ludeña-campoverde-2aabb210a
+
 
 ---
 
