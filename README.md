@@ -1,6 +1,6 @@
 ## 👋 ¡Hola! Soy Bryan K. Ludeña Campoverde
 
-![Banner](assets/mi-imagen.png)
+![Banner](assets/1%202%203%204%205.png)
 
 Desarrollador Junior Full Stack & DevOps con formación en .NET, AWS, React y Jetpack Compose. En constante aprendizaje, apasionado por la tecnología y actualmente construyendo experiencia a través de proyectos personales y formación especializada.
 
