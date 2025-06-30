@@ -1,16 +1,58 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy Bryan K. Ludeña Campoverde
 
-<!--
-**Bryank94/Bryank94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](assets/mi-imagen.png)
 
-Here are some ideas to get you started:
+Desarrollador Junior Full Stack & DevOps con formación en .NET, AWS, React y Jetpack Compose. En constante aprendizaje, apasionado por la tecnología y actualmente construyendo experiencia a través de proyectos personales y formación especializada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tecnologías y herramientas que manejo
+
+- **Lenguajes:** Java, C#, Python, JavaScript, Kotlin, HTML, CSS  
+- **Frameworks y Librerías:** Spring Boot, JavaFX, Swing, Tkinter, Jetpack Compose, Three.js  
+- **Desarrollo móvil:** Android Studio (Kotlin)  
+- **Videojuegos y 3D:** Unity (C#), Tinkercad  
+- **Bases de datos:** MySQL, SQLite  
+- **Diseño:** Figma, Photoshop, Illustrator, Adobe Premiere, Canva  
+- **Otras herramientas:** Salesforce, Visual Studio, IntelliJ, Eclipse, Postman  
+
+---
+
+### 💻 Proyectos personales destacados
+
+- 🎮 **Videojuego educativo sobre salud mental** – Unity + C#  
+- 🧠 **App de recursos humanos** – Python, Tkinter, SQL  
+- 💼 **App de búsqueda de empleo** – JavaFX, Spring Boot, MySQL  
+- 🎥 **App de películas** – Kotlin, Android Studio, Postman  
+- 💰 **App para enseñar a ahorrar** – Kotlin, SQLite  
+- 🧮 **Calculadora IMC** – Android Studio, Kotlin  
+- 🌐 **Diseño web 3D** – HTML, CSS, JavaScript, Three.js  
+
+### 📚 Formación académica
+
+- 👨‍💻 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma – UNIR *(2025)*  
+- 🌍 International Business Management – Anglia Ruskin University, Cambridge *(2022)*  
+- 📦 Grado Superior en Comercio Internacional – Academia Marco *(2018)*  
+
+---
+
+### 💼 Experiencia previa
+
+Aunque mi experiencia laboral ha estado centrada en el sector de servicios y gestión, he desarrollado habilidades clave como liderazgo, coordinación de equipos y resolución de problemas. Esto me brinda una base sólida para adaptarme rápidamente en entornos tecnológicos.
+
+---
+
+### 🌱 Actualmente
+
+Estoy en búsqueda activa de mi primera experiencia profesional en el mundo del desarrollo. Mientras tanto, sigo aprendiendo y creando proyectos que me permitan crecer como programador.
+
+---
+
+### 📫 ¿Hablamos?
+
+- ✉️ [bryan.18.ecua@hotmail.com](mailto:bryan.18.ecua@hotmail.com)  
+- 💼 [LinkedIn – Bryan K. Ludeña Campoverde](https://linkedin.com) *(agrega aquí tu enlace personalizado si tienes uno)*
+
+---
+
+¡Gracias por visitar mi perfil! 🚀
